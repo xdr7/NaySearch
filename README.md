@@ -17,3 +17,14 @@ NaySearch:
         Loading spinner saat mencari
         Tampilan "Naysearch" dengan gradient warna dinamis
         Informasi fotografer dan lokasi (jika tersedia)
+
+
+
+Created By Asmaul Asni Subegi, S.Kom 
+Computer Science Alumni,
+Mathematic and Science Faculty, Mulawarman University Samarinda, East Kalimantan,
+
+
+
+<img width="1459" height="529" alt="INDEX" src="https://github.com/user-attachments/assets/64d4c33f-6baa-4fb9-91b7-994953c41e21" />
+<img width="1613" height="751" alt="hasil" src="https://github.com/user-attachments/assets/e333a80d-1533-4a42-9eb1-93598b63a13d" />
